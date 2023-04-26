@@ -1,0 +1,16 @@
+{
+  "name": "zenn-dev-contents",
+  "version": "1.0.0",
+  "author": "tainakanchu <tainakanchu815@gmail.com>",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": "https://github.com/tainakanchu/zenn-dev-contents.git",
+  "devDependencies": {
+    "zenn-cli": "^0.1.143"
+  },
+  "scripts": {
+    "article": "zenn new:article",
+    "book": "zenn new:book",
+    "dev": "zenn preview"
+  }
+}
