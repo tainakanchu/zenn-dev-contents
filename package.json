@@ -9,6 +9,7 @@
     "zenn-cli": "^0.1.144"
   },
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "article": "zenn new:article",
     "book": "zenn new:book",
     "dev": "zenn preview"
