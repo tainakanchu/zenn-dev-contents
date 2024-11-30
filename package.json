@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": "https://github.com/tainakanchu/zenn-dev-contents.git",
   "devDependencies": {
-    "zenn-cli": "^0.1.154"
+    "zenn-cli": "^0.1.158"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
